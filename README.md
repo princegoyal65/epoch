@@ -9,7 +9,7 @@
 ![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
 ![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template) 
 
-> A guide to writing an amazing readme for your data science project.
+> Efficient and Fair Line Construction Project.
 
 The project title should be concise and self-explanatory so that the user can easily remember your project.
 
