@@ -36,6 +36,7 @@ In this section, I include all the necessary dependencies needed to reproduce th
 
 ## Data Acquisition
 we have used california housing dataset
+https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html
 
 
 # Results and evaluation
