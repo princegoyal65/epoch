@@ -15,11 +15,10 @@ achieve efficiency and fairness while considering the distances from houses to t
 
 In this section, provide detailed instructions on how to set up the project on a local machine. This includes any necessary dependencies, software requirements, and installation steps. Make sure to include clear and concise instructions so that others can easily replicate your setup.
 
-I like to structure it as below - 
 ## Codes and Resources Used
-In this section I give user the necessary information about the software requirements.
-- **Editor Used:**  Informing the user of the editor used to produce the project.
-- **Python Version:** Informing the user of the version of python used for this project. If you are using some other language such as R, you can mention that as well.
+
+- **Editor Used:**  Google collab. jupyter note book.
+- 
 
 ## Python Packages Used
 In this section, I include all the necessary dependencies needed to reproduce the project, so that the reader can install them before replicating the project. I categorize the long list of packages used as - 
