@@ -35,7 +35,7 @@ In this section, I include all the necessary dependencies needed to reproduce th
 
 
 ## Data Acquisition
-Dataset is provided we have given califorina housing dataset which we have get from sklearn library
+we have used california housing dataset
 
 
 # Results and evaluation
