@@ -18,7 +18,7 @@ In this section, provide detailed instructions on how to set up the project on a
 ## Codes and Resources Used
 
 - **Editor Used:**  Google collab. jupyter note book.
-- 
+-  to clone repo: https://github.com/princegoyal65/epoch
 
 ## Python Packages Used
 In this section, I include all the necessary dependencies needed to reproduce the project, so that the reader can install them before replicating the project. I categorize the long list of packages used as - 
