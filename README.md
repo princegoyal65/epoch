@@ -1,6 +1,12 @@
 # epoch
 
 # Efficient and Fair Line Construction Project
+![image](https://github.com/princegoyal65/epoch/assets/78958474/e47954d2-cac7-4573-bad6-69d66bd1e667)
+![image](https://github.com/princegoyal65/epoch/assets/78958474/9618c563-8cc8-41dc-bead-1112d4988d68)
+![image](https://github.com/princegoyal65/epoch/assets/78958474/83b9747e-c636-4924-8ceb-993d66744fd1)
+![image](https://github.com/princegoyal65/epoch/assets/78958474/2bed35be-d6de-4228-b4f9-41c6d241f69c)
+
+
 
  
 
